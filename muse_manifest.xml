@@ -1,0 +1,178 @@
+<manifest alg="2" build="704" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4273734520"/>
+    <file name="master_a-master.css" crc="532490391" ref="about-us:contact-us:services"/>
+    <file name="about-us.css" crc="3857206618" ref="about-us"/>
+    <file name="index.css" crc="384341692" ref="index"/>
+    <file name="contact-us.css" crc="3993982919" ref="contact-us"/>
+    <file name="services.css" crc="4200530107" ref="services"/>
+  </folder>
+  <folder name="assets">
+    <folder name="plane-animation">
+      <folder name="edge_includes">
+        <file name="edge.2.0.0.min.js" crc="4212855340" mt="1382381552000"/>
+        <file name="jquery-1.7.1.min.js" crc="4091143699" mt="1382381552000"/>
+      </folder>
+      <folder name="images">
+        <file name="big-airplane.png" crc="74158204" mt="1382381552000"/>
+        <file name="big-logo.png" crc="3993599855" mt="1382381552000"/>
+        <file name="cloud-1.png" crc="236410177" mt="1382381552000"/>
+        <file name="cloud-5.png" crc="277629819" mt="1382381552000"/>
+        <file name="clouds.png" crc="3825487293" mt="1382381552000"/>
+        <file name="jet group.png" crc="4114049138" mt="1382381552000"/>
+        <file name="jet.png" crc="3990866436" mt="1382381552000"/>
+        <file name="Poster.png" crc="305249095" mt="1382381552000"/>
+        <file name="Poster2.png" crc="11281837" mt="1382381552000"/>
+      </folder>
+      <file name="plane animation_edge.js" crc="4015131301" mt="1382381552000"/>
+      <file name="plane animation_edgeActions.js" crc="4038754492" mt="1382381552000"/>
+      <file name="plane animation_edgePreload.js" crc="316251468" mt="1382381552000"/>
+      <file name="plane animation.html" crc="132648808" mt="1382381552000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:services:contact-us"/>
+    <file name="museutils.js" crc="3992981318" ref="index:about-us:services:contact-us"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about-us:services:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="about-us:services"/>
+    <file name="webpro.js" crc="197321703" ref="index:about-us:contact-us:services"/>
+    <file name="musewpslideshow.js" crc="4283859919" ref="index:about-us:services"/>
+    <file name="jquery.museoverlay.js" crc="3836522771" ref="index:about-us:services"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:about-us:services"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:about-us:services:contact-us"/>
+    <file name="form_check.php" crc="4259398763" ref="contact-us"/>
+    <file name="form_throttle.php" crc="497742690" ref="contact-us"/>
+    <file name="form-u1907.php" crc="494752302" ref="contact-us"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="services"/>
+  </folder>
+  <folder name="images">
+    <file name="fancy_deboss.png" crc="3796183526" ref="index:about-us:services:contact-us"/>
+    <file name="logo.png" crc="4027515212" ref="index:about-us:services:contact-us"/>
+    <file name="homepage.png" crc="4062820744" ref="index"/>
+    <file name="277781642_786.jpg" crc="3974072155" ref="services"/>
+    <file name="footer_r2_c1_r2_c1.png" crc="456764641" ref="about-us:services:contact-us"/>
+    <file name="pixelpatterns2.png" crc="3838448318" ref="index:about-us"/>
+    <file name="adv petrochemical company.jpg" crc="44404585" ref="about-us"/>
+    <file name="blank.gif" crc="4208392903" ref="about-us:index:services"/>
+    <file name="anabeeb.png" crc="4199363417" ref="about-us"/>
+    <file name="aytb.gif" crc="3959525793" ref="about-us"/>
+    <file name="bfim.gif" crc="365748113" ref="about-us"/>
+    <file name="graphic1(1).jpg" crc="17360595" ref="about-us"/>
+    <file name="heba.gif" crc="4159901273" ref="about-us"/>
+    <file name="kaefer.jpg" crc="3880182895" ref="about-us"/>
+    <file name="logo-alhoty.jpg" crc="3805658954" ref="about-us"/>
+    <file name="new_logo1.jpg" crc="428741175" ref="about-us"/>
+    <file name="sabic_logo.jpg" crc="292777842" ref="about-us"/>
+    <file name="saline water_con.gif" crc="212268696" ref="about-us"/>
+    <file name="saudi kayan.jpg" crc="270019220" ref="about-us"/>
+    <file name="sendan.jpg" crc="391463865" ref="about-us"/>
+    <file name="graphic1(1)67x45.jpg" crc="478009792" ref="about-us"/>
+    <file name="sabic_logo89x45.jpg" crc="263342392" ref="about-us"/>
+    <file name="loading.gif" crc="3815509949" ref="about-us:index:services"/>
+    <file name="1266050132_74002655_1-laser-engraving-relief-road.jpg" crc="257550490" ref="services"/>
+    <file name="img-20131019-wa0006.jpg" crc="42181977" ref="services"/>
+    <file name="img-20131019-wa0007.jpg" crc="44630413" ref="services"/>
+    <file name="img-20131019-wa0010.jpg" crc="3977773056" ref="services"/>
+    <file name="img-20131019-wa0014.jpg" crc="36721121" ref="services"/>
+    <file name="img-20131019-wa0015.jpg" crc="4002234360" ref="services"/>
+    <file name="img-20131019-wa0018.jpg" crc="4003178485" ref="services"/>
+    <file name="img-20131019-wa0020.jpg" crc="4018052394" ref="services"/>
+    <file name="map_pin.png" crc="4012308679" ref="contact-us"/>
+    <file name="smart_phone.png" crc="3781955164" ref="contact-us"/>
+    <file name="u1940-17.png" crc="440089133" ref="contact-us"/>
+    <file name="u1940-17-r.png" crc="292912033" ref="contact-us"/>
+    <file name="u1940-17-m.png" crc="261216649" ref="contact-us"/>
+    <file name="u1940-17-fs.png" crc="4001031594" ref="contact-us"/>
+    <file name="handshake.png" crc="276227801" ref="about-us"/>
+    <file name="commercial-metal-nameplates.jpg" crc="4170468617" ref="services"/>
+    <file name="fig-8-big.jpg" crc="4267310191" ref="services"/>
+    <file name="img_1372.jpg" crc="522022150" ref="services"/>
+    <file name="metal-engraved-label-tag-plastic-engraved-tags-laser-engraved-tags-in-sharjah_1.jpg" crc="4086215131" ref="services"/>
+    <file name="prestigious-reception (1).png" crc="305717713" ref="services"/>
+    <file name="1266050132_74002655_1-laser-engraving-relief-road161x88.jpg" crc="4053107675" ref="services"/>
+    <file name="commercial-metal-nameplates154x88.jpg" crc="4138628934" ref="services"/>
+    <file name="fig-8-big140x91.jpg" crc="4177741271" ref="services"/>
+    <file name="img_1372159x88.jpg" crc="4222457219" ref="services"/>
+    <file name="metal-engraved-label-tag-plastic-engraved-tags-laser-engraved-tags-in-sharjah_1140x100.jpg" crc="403747998" ref="services"/>
+    <file name="bimg51b88730b1bbf.gif" crc="114982375" ref="services"/>
+    <file name="health-and-safety-signs.jpg" crc="50108097" ref="services"/>
+    <file name="health-and-safety-signs-2.jpg" crc="37786586" ref="services"/>
+    <file name="img00112-20110923-1356.jpg" crc="240888940" ref="services"/>
+    <file name="painting work.jpg" crc="3930410372" ref="services"/>
+    <file name="road_markings2.jpg" crc="397518396" ref="services"/>
+    <file name="safety-sign-examples.png" crc="55561473" ref="services"/>
+    <file name="safety-signs.jpg" crc="234231420" ref="services"/>
+    <file name="health-and-safety-signs-2140x140.jpg" crc="4129102698" ref="services"/>
+    <file name="img00112-20110923-1356140x89.jpg" crc="102360654" ref="services"/>
+    <file name="painting work140x140.jpg" crc="3869287982" ref="services"/>
+    <file name="road_markings2152x88.jpg" crc="4164069126" ref="services"/>
+    <file name="safety-sign-examples140x117.jpg" crc="57157233" ref="services"/>
+    <file name="safety-signs140x114.jpg" crc="411591899" ref="services"/>
+    <file name="cap printer 5.jpg" crc="4007541133" ref="services"/>
+    <file name="lncyuprl030112p.jpg" crc="4152884897" ref="services"/>
+    <file name="marnex-printed-mugs-picture.jpg" crc="260797962" ref="services"/>
+    <file name="picture2.jpg" crc="353450256" ref="services"/>
+    <file name="t-shirtscreenprintingmachine.jpg" crc="147435554" ref="services"/>
+    <file name="277781642_786140x105.jpg" crc="3886850040" ref="services"/>
+    <file name="cap printer 5140x126.jpg" crc="3781506086" ref="services"/>
+    <file name="lncyuprl030112p140x122.jpg" crc="3811996934" ref="services"/>
+    <file name="marnex-printed-mugs-picture140x140.jpg" crc="528268300" ref="services"/>
+    <file name="picture2140x143.jpg" crc="104137797" ref="services"/>
+    <file name="t-shirtscreenprintingmachine140x105.jpg" crc="153609697" ref="services"/>
+    <file name="4.jpg" crc="4144479186" ref="services"/>
+    <file name="501959765_657.jpg" crc="475268562" ref="services"/>
+    <file name="1369838866_514012288_4-banner-printing-machine-tools-machinery-industrial.jpg" crc="254492497" ref="services"/>
+    <file name="banner-printing-machine.jpg" crc="4010255326" ref="services"/>
+    <file name="501959765_657140x94.jpg" crc="4074296641" ref="services"/>
+    <file name="1369838866_514012288_4-banner-printing-machine-tools-machinery-industrial140x106.jpg" crc="3787105798" ref="services"/>
+    <file name="banner-printing-machine140x140.jpg" crc="3893173097" ref="services"/>
+    <file name="advertisment_sign.jpg" crc="23093768" ref="services"/>
+    <file name="multi-message-construction-safety-sign.jpg" crc="126329607" ref="services"/>
+    <file name="oil-refinery-safety-signs-paul-rapson.jpg" crc="3792275985" ref="services"/>
+    <file name="project_sign.jpg" crc="3972453002" ref="services"/>
+    <file name="signboard.jpg" crc="3867278675" ref="services"/>
+    <file name="advertisment_sign140x105.jpg" crc="4180424242" ref="services"/>
+    <file name="multi-message-construction-safety-sign140x105.jpg" crc="404564862" ref="services"/>
+    <file name="oil-refinery-safety-signs-paul-rapson140x94.jpg" crc="391085" ref="services"/>
+    <file name="project_sign140x105.jpg" crc="21767724" ref="services"/>
+    <file name="signboard140x96.jpg" crc="4132188881" ref="services"/>
+    <file name="09062010113.jpg" crc="1370657" ref="services"/>
+    <file name="buy-promotional-gift-573313982.jpg" crc="370223748" ref="services"/>
+    <file name="promo_products_5.jpg" crc="24272620" ref="services"/>
+    <file name="09062010113140x105.jpg" crc="72804749" ref="services"/>
+    <file name="buy-promotional-gift-573313982140x105.jpg" crc="4274156828" ref="services"/>
+    <file name="img-20131019-wa0006140x105.jpg" crc="4030043944" ref="services"/>
+    <file name="img-20131019-wa0007140x105.jpg" crc="3918557778" ref="services"/>
+    <file name="img-20131019-wa0010140x105.jpg" crc="4135654157" ref="services"/>
+    <file name="img-20131019-wa0014140x187.jpg" crc="3988544279" ref="services"/>
+    <file name="img-20131019-wa0015140x105.jpg" crc="3990494128" ref="services"/>
+    <file name="img-20131019-wa0018140x105.jpg" crc="3814953882" ref="services"/>
+    <file name="img-20131019-wa0020140x187.jpg" crc="3907465352" ref="services"/>
+    <file name="promo_products_5140x118.jpg" crc="69037314" ref="services"/>
+    <file name="1.png" crc="4264991476" ref="index"/>
+    <file name="2.png" crc="307408952" ref="index"/>
+    <file name="3.png" crc="507826395" ref="index"/>
+    <file name="4.png" crc="3979270737" ref="index"/>
+    <file name="5.jpg" crc="3886082015" ref="index"/>
+    <file name="6.jpg" crc="279364657" ref="index"/>
+    <file name="7.jpg" crc="204668819" ref="index"/>
+    <file name="8.jpg" crc="339012644" ref="index"/>
+    <file name="9.jpg" crc="3904679103" ref="index"/>
+    <file name="10.png" crc="4230757902" ref="index"/>
+    <file name="img-20131026-wa0008.jpg" crc="4289241434" ref="services"/>
+    <file name="img-20131026-wa0009.jpg" crc="194147185" ref="services"/>
+    <file name="img-20131026-wa0011.jpg" crc="3861118607" ref="services"/>
+    <file name="p_mekanizmal__ajanda_ard_n__ezg_2.jpg" crc="4224527023" ref="services"/>
+    <file name="papirus-1-1.jpg" crc="4082217074" ref="services"/>
+    <file name="zambak-1-1.jpg" crc="4195685315" ref="services"/>
+    <file name="img-20131026-wa0009157x88.jpg" crc="3917103410" ref="services"/>
+    <file name="p_mekanizmal__ajanda_ard_n__ezg_2140x140.jpg" crc="4139944056" ref="services"/>
+    <file name="papirus-1-1140x110.jpg" crc="3776817775" ref="services"/>
+    <file name="zambak-1-1140x110.jpg" crc="481723610" ref="services"/>
+    <file name="user.png" crc="58861758" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="174841930" mt="1382960176704"/>
+  <file name="about-us.html" crc="4033149031" mt="1382959372894"/>
+  <file name="services.html" crc="434415930" mt="1382959865296"/>
+  <file name="contact-us.html" crc="4058462136" mt="1382959780035"/>
+</manifest>
