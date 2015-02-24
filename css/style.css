@@ -1,0 +1,33 @@
+body
+{	
+	margin: 0;
+	padding: 0;
+	background: url('../images/body_bg.png') repeat;
+}
+.main
+{
+	width: 960px;
+	min-height: 500px;
+	margin: 0 auto;
+	background: #BFEFFF;
+}
+header
+{
+	width: 960px;
+	height: 120px;
+	background: url('../images/header_bg.png') repeat center right;
+}
+#edge_animate
+{
+	width: 960px;
+	height: 200px;
+	margin: 20px 0 10px;
+	background: #BFEFFF;
+}
+#home_bg
+{
+	position: absolute;
+	width: 960px;
+	height: 755px;
+	background: url('../images/home_bg.png') no-repeat;
+}
