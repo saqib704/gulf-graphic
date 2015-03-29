@@ -1,13 +1,23 @@
+@font-face
+{
+	src: url('../fonts/Cutive-Regular.ttf');
+	font-family: cutive;
+}
+@font-face
+{
+	src: url('../fonts/Allerta-Regular.ttf');
+	font-family: allerta;
+}
 body
 {	
 	margin: 0;
 	padding: 0;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	background: url('../images/body_bg.png') repeat;
 }
 .main
 {
 	width: 960px;
-	min-height: 500px;
 	margin: 0 auto;
 	background: #BFEFFF;
 }
@@ -16,6 +26,37 @@ header
 	width: 960px;
 	height: 120px;
 	background: url('../images/header_bg.png') repeat center right;
+}
+#logo
+{
+	float: left;
+	width: 120px;
+	height: 120px;
+	margin-left: 30px;
+	padding: 0 10px;
+	background: url('../images/logo.png') no-repeat center center #BFEFFF;
+}
+header nav
+{
+	float: right;
+	margin-top: 95px;
+}
+header nav a
+{
+	color: #FFF;
+	text-decoration: none;
+	font-family: allerta, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 25px;
+}
+header nav a:hover
+{
+	color: #00A651;
+}
+#active
+{
+	color: #00A651;
 }
 #edge_animate
 {
@@ -26,8 +67,143 @@ header
 }
 #home_bg
 {
-	position: absolute;
 	width: 960px;
 	height: 755px;
 	background: url('../images/home_bg.png') no-repeat;
+}
+
+/* CSS for About Us */
+.about_content
+{
+	font-family: cutive, sans-serif;
+	text-align: justify;
+	width: 890px;
+	padding: 15px;
+	margin: 50px auto 10px;
+	background: #FFF;
+}
+.about_info
+{
+	width: 890px;
+	height: 150px;
+	margin-top: 50px;
+}
+#handshake
+{
+	float: left;
+	width: 285px;
+	height: 150px;
+}
+#handshake_info
+{
+	float: right;
+	margin: 0;
+	width: 590px;
+	height: 150px;
+	font-size: 11px;
+}
+#abt_slider
+{
+	width: 920px;
+	height: 90px;
+	margin: 60px 0 70px -15px;
+	background: #424242;
+}
+.about_content h1,h3
+{
+	font-weight: normal;
+}
+.about_content p
+{
+	font-size: 11px;
+}
+.client_img img
+{
+	width: 90px;
+	height: 45px;
+}
+
+/* CSS for Service */
+.service_container
+{
+	font-family: cutive, sans-serif;
+	text-align: justify;
+	width: 890px;
+	padding: 10px;
+	margin: 50px auto 10px;
+	background: #FFF;
+}
+.service_container h1
+{
+	font-family: cutive, sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+}
+.service_container h3
+{
+	font-family: cutive, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+.service_container p
+{
+	font-family: cutive, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+#service_image
+{
+	height: 300px;
+	padding-top: 30px;
+}
+#service_image img
+{
+	float: left;
+	width: 130px;
+	height: 85px;
+	margin: 0 10px 10px 0;
+}
+
+/* CSS for Footer */
+#footer_bg
+{
+	width: 960px;
+	height: 252px;
+	background: url('../images/footer_bg.png') no-repeat;
+}
+footer
+{
+	color: #FFF;
+	font-size: 11px;
+	width: 940px;
+	height: 20px;
+	line-height: 16px;
+	padding: 10px;
+	margin-top: -10px;
+	background: #CC8808;
+}
+footer a
+{
+	color: #FFF;
+	text-decoration: none;
+}
+#info
+{
+	float: left;
+	margin-top: -3px;
+}
+#contactno
+{
+	float: left;
+	margin-top: -3px;
+}
+#allright
+{
+	float: right;
+	margin-top: -18px;
+}
+#crafted
+{
+	float: right;
+	margin-top: -20px;
 }
