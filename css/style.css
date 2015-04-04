@@ -8,6 +8,11 @@
 	src: url('../fonts/Allerta-Regular.ttf');
 	font-family: allerta;
 }
+@font-face
+{
+	src: url('../fonts/Kreon-Regular.ttf');
+	font-family: kreon;
+}
 body
 {	
 	margin: 0;
@@ -71,6 +76,19 @@ header nav a:hover
 	height: 755px;
 	background: url('../images/home_bg.png') no-repeat;
 }
+#slider
+{
+	position: absolute;
+	width: 832px;
+	height: 334px;
+	margin: 40px 0 0 62px;
+	border: 2px solid #666;
+}
+#slider img
+{
+	width: 832px !important;
+	height: 334px !important;
+}
 
 /* CSS for About Us */
 .about_content
@@ -109,6 +127,27 @@ header nav a:hover
 	height: 90px;
 	margin: 60px 0 70px -15px;
 	background: #424242;
+	overflow: hidden;
+}
+#slides ul
+{
+	list-style: none;
+}
+#h1
+{
+	color: #FFF;
+	font-family: kreon, serif;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+}
+#p
+{
+	color: #BFEFFF;
+	font-family: allerta, sans-serif;
+	font-size: 13px;
+	text-align: center;
+	margin-top: -17px;
 }
 .about_content h1,h3
 {
@@ -165,7 +204,7 @@ header nav a:hover
 	margin: 0 10px 10px 0;
 }
 
-/* CSS for Service */
+/* CSS for Contact Us */
 .contact_container
 {
 	font-family: cutive, sans-serif;
